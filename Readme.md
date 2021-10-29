@@ -1,1 +1,1 @@
-Hello contrib ute here
+Hello contribute here
